@@ -24,14 +24,14 @@ Um simples sistema baseado em estruturas condicionais, estruturas de repetição
 
 ## Preview pics
 
-<p>Aqui está algumas imagens do projeto, porém, você também pode testar na <a href="https://custom-pokedex.vercel.app/" target="_blank">Live preview</a></p>
+<p>Aqui está algumas imagens do projeto</p>
 
  <div align="center">
- <img src="https://github.com/Maycomwill/BancoETE/blob/master/Prints/1.jpg?raw=true" width: 700px/>
+ <img src="https://github.com/Maycomwill/BancoETE/blob/main/1.jpg?raw=true" width: 300px/>
  </div>
 
  <div align="center">
- <img src="https://github.com/Maycomwill/BancoETE/blob/master/Prints/2.jpg?raw=true" width: 700px/>
+ <img src="https://github.com/Maycomwill/BancoETE/blob/main/2.jpg?raw=true" width: 500px/>
  </div>
 
 ## 📝 License
